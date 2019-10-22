@@ -4,7 +4,7 @@ The player has to catch the EGG with basket . The different types of eggs will f
 # Multithreading: 
 Multithreading is used for smooth functioning of the game.
 
-#Game Explanation:
+# Game Explanation:
 1. The player will catch the egg using basket by moving left and right. 
 2. The player can control the basket using 'Arrow Keys'. 
 3. The player gains '1' point if he/she catches the white egg, gains '5' points if catches Golden Egg, loses '5' points if catches black egg. 
